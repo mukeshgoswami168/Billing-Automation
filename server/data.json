@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "plan": "Basic",
+        "usage": "100 GB",
+        "time": "30 days",
+        "amount": 100,
+        "date": "1st Dec, 2023"
+    },
+    {
+        "id": 2,
+        "plan": "Pro",
+        "usage": "500 GB",
+        "time": "30 days",
+        "amount": 200,
+        "date": "1st Nov, 2023"
+    },
+    {
+        "id": 3,
+        "plan": "Premium",
+        "usage": "Unlimited",
+        "time": "30 days",
+        "amount": 300,
+        "date": "1st Oct, 2023"
+    },
+    {
+        "id": 4,
+        "plan": "Basic",
+        "usage": "100GB",
+        "time": "30 days",
+        "amount": 100,
+        "date": "1st Sep, 2023"
+    },
+    {
+        "id": 5,
+        "plan": "Pro",
+        "usage": "500 GB",
+        "time": "30 days",
+        "amount": 200,
+        "date": "1st Aug, 2023"
+    },
+    {
+        "id": 6,
+        "plan": "Premium",
+        "usage": "Unlimited",
+        "time": "30 days",
+        "amount": 300,
+        "date": "1st July, 2023"
+    }
+]
